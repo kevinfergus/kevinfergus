@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kevinfergus/kevinfergus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi, my name is Kevin Fergus. I'm a software engineer with a proven ability to work creatively in both small and large team environments. For a team project, I was responsible for the front end and I took it upon myself to learn Django back end to ensure smooth interactions without the need to delay the back end engineer’s other work. I built an ecommerce site in 8 days with 4 teammates using a creative approach to cart schema design, ultimately removing the need for a separate carts table. With a passion for personal growth, I attended a 1,000+ hour Fullstack bootcamp to both learn new coding techniques and sharpen my existing skills. I am now looking for an opportunity to use these skills in a collaborative environment with other passionate technologists creating delightful experiences for end users.
 
